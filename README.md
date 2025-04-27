@@ -21,6 +21,7 @@ These platforms provide access to OERs such as tutorials, courses, webinars, blo
 | [NASA Earthdata Learn](https://www.earthdata.nasa.gov/learn) | [NASA](https://www.nasa.gov/) | Open tutorials, data recipes, and webinars to help users access, analyze, and apply Earth science and remote sensing data. |
 | [Project Pythia](https://projectpythia.org/) | [Pangeo](https://pangeo.io/) | An education and training hub for the geoscientific Python community. |
 | [Statistics and Geodata Analysis SOGA](https://www.geo.fu-berlin.de/en/v/soga/) | [Center for Digital Systems (CeDiS), FU Berlin](https://www.cedis.fu-berlin.de/) | R- and Python-based courses in statistics and geodata analysis for Earth and environmental sciences. |
+| [Galaxy Training Network (GTN)](https://training.galaxyproject.org/training-material/) | [Galaxy Project](https://galaxyproject.org/) | Collection of free, FAIR, open-source, reusable e-Learning materials for life sciences and beyond. |
 
 ### Multidisciplinary & general learning platforms
 
@@ -31,7 +32,6 @@ These platforms provide access to OERs such as tutorials, courses, webinars, blo
 | [MERLOT (Multimedia Educational Resource for Learning and Online Teaching)](https://merlot.org/merlot/index.htm) | [California State University](https://www.calstate.edu/) | Educational resources with filters by discipline, material type, audience, and features like peer review, and free access. |
 | [twillo](https://www.twillo.de/oer/web/) | [German National Library of Science and Technology (TIB)](https://www.tib.eu/) | Central hub for OER in Lower Saxony (Germany) aiming to provide educators and learners with access to freely available teaching and learning materials |
 | [DALIA](https://dalia.education/) | [German National Research Data Infrastructure (NFDI)](https://www.nfdi.de/) | Federated knowledge base to support FAIR data usage and supply, providing open educational resources for researchers and educators across disciplines |
-| [Galaxy Training Network (GTN)](https://training.galaxyproject.org/training-material/) | [Galaxy Project](https://galaxyproject.org/) | Collection of free, FAIR, open-source, reusable e-Learning materials for life sciences and beyond. |
 | [Kaggle](https://www.kaggle.com/) | [Google LLC](https://about.google/) | Datasets, coding environments, and micro-courses for hands-on learning and collaboration in data science, including geoscience applications. |
 | [Zenodo](https://zenodo.org/) | [CERN Open Science](https://openscience.cern/) | General-purpose open repository for publishing research outputs, including datasets, software, and educational materials with DOI support. |
 | [GitHub](https://github.com/) | [Microsoft](https://www.microsoft.com/) | Web-based platform for hosting and managing code using Git, enabling collaboration, version control, and sharing of software projects, documentation, and related resources. |
