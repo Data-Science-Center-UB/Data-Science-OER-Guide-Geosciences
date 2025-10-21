@@ -1,18 +1,18 @@
 # Data Science OER Guide: Geosciences 🌐
 
-This repository offers a **curated collection of metadata** - that is, organized links and brief descriptions pointing to platforms that help geoscientists easily discover **open educational resources (OER)**, such as training materials and software tutorials related to data science. 
+This repository offers a **curated collection of metadata** - that is, organized links and brief descriptions pointing to platforms that help geoscientists easily discover **open educational resources (OER)**,´or directly to such individual training materials related to data science. The emphasis is on data-science workflows using geoscience data.
 
-The **goal** of this repository is to promote access to learning opportunities, reduce redundancy in training material development, and support reproducible, open science in the geosciences. With the broad and growing array of platforms and content types, it’s often challenging to find materials directly relevant to geoscientific work.
+The goal of this repository is to promote access to learning opportunities, reduce redundancy in training material development, and support reproducible, open science in the geosciences.
 
-**Additional sources** of OERs not directly listed in this repository include YouTube channels, peer-reviewed scientific journals (e.g. tutorial-style articles or methods papers) and workbooks. 
+Additional sources of OERs not directly listed in this repository include YouTube channels and peer-reviewed scientific journals (e.g., tutorial-style articles or methods papers).
 
 ---
 
 ## Learning platforms & educational hubs
 
-These platforms provide access to OERs such as tutorials, courses, webinars, blog posts, and other training materials at the intersection of geosciences and data science. Some are dedicated to geoscience-specific content, while others are multidisciplinary and contain relevant resources. Many allow filtering by keywords such as `geoscience`, `hydrology`, or `remote sensing`.
+These platforms provide access to OERs at the intersection of geosciences and data science. Some are dedicated to geoscience-specific content, while others are multidisciplinary and contain relevant resources. Many allow filtering by keywords such as `geoscience`, `hydrology`, or `remote sensing`.
 
-### Geoscience-focused platforms
+### Geoscience-focused platforms 
 
 | Name | Provider | Brief Description |
 |------|----------|-------------------|
@@ -22,8 +22,9 @@ These platforms provide access to OERs such as tutorials, courses, webinars, blo
 | [Project Pythia](https://projectpythia.org/) | [Pangeo](https://pangeo.io/) | An education and training hub for the geoscientific Python community. |
 | [Statistics and Geodata Analysis SOGA](https://www.geo.fu-berlin.de/en/v/soga/) | [Center for Digital Systems (CeDiS), FU Berlin](https://www.cedis.fu-berlin.de/) | R- and Python-based courses in statistics and geodata analysis for Earth and environmental sciences. |
 | [Galaxy Training Network (GTN)](https://training.galaxyproject.org/training-material/) | [Galaxy Project](https://galaxyproject.org/) | Collection of free, FAIR, open-source, reusable e-Learning materials for life sciences and beyond. |
+| [The Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) | EDS book community | Open textbook and learning resources for environmental data science using Python. |
 
-### Multidisciplinary & general learning platforms
+### Multidisciplinary and general learning platforms
 
 | Name | Provider | Brief Description |
 |------|----------|-------------------|
@@ -40,18 +41,21 @@ These platforms provide access to OERs such as tutorials, courses, webinars, blo
 
 ---
 
-## More on GitHub
+## Individual courses, workbooks, and tutorials
 
-### OER Highlights
+These are single, openly available items (e.g., a university open workbook) that are directly applicable to geoscience data science.
 
-The following is a list with example OER repositories on GitHub particularly relevant to the goals of this guide:
+| Name | Provider | Brief Description |
+|------|----------|-------------------|
+| [Geospatial Analysis with Python and R (2025)](https://kodu.ut.ee/~kmoch/geopython2025/) | [University of Tartu – Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/) | Open course teaching practical GIS workflows in Python and R | 
+| [Interpretable Machine Learning — Data & Models](https://christophm.github.io/interpretable-ml-book/data.html) | Christoph Molnar | Demonstration of interpretable machine learning methods | 
+| [Machine Learning in the Geosciences — ML Geo Curriculum](https://geo-smart.github.io/mlgeo-book/about_this_book/about_this_book.html) | eScience Institute, University of Washington | Course to introduce Machine Learning in Geosciences, the basics of computing, and methodologies in applied machine learning using Jupyter Notebooks. |
+| [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) | Nikolay Koldunov | Jupyter notebooks and teaching materials for Python-based geoscientific applications. |
+| [Python for GIS and Geoscience](https://github.com/plovercode/DS-python-geospatial) | Ghent University — Joris Van den Bossche & Stijn Van Hoey | Course materials and Python tutorials for GIS and geoscience, including spatial analysis and visualization. |
 
-- [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences): Jupyter notebooks and teaching materials for Python-based geoscientific applications.
-- [Python for GIS and Geoscience](https://github.com/plovercode/DS-python-geospatial): Course materials and Python tutorials for GIS and geoscience, including spatial analysis and visualization.
-- [The Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book): Open textbook and learning resource for environmental data science using Python.
-- [The Turing Way](https://github.com/the-turing-way/the-turing-way): Collaborative guide for reproducible, ethical, and inclusive data science practices.
+---
 
-### Related Lists on GitHub
+## Related Lists on GitHub
 
 These repositories also list and aggregate open-source tools and resources relevant to geoscience:
 
@@ -63,4 +67,4 @@ These repositories also list and aggregate open-source tools and resources relev
 
 ## Contributing
 
-We welcome contributions! We are working on a guideline; in the meantime please contact: anolte@uni-bremen.de.
+We welcome contributions! We are working on a guideline; in the meantime please contact anolte@uni-bremen.de with suggested additions or corrections.
