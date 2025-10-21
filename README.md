@@ -1,6 +1,6 @@
 # Data Science OER Guide: Geosciences 🌐
 
-This repository offers a **curated collection of metadata** - that is, organized links and brief descriptions pointing to platforms that help geoscientists easily discover **open educational resources (OER)**,´or directly to such individual training materials related to data science. The emphasis is on data-science workflows using geoscience data.
+This repository offers a **curated collection of metadata** — organized links and brief descriptions — pointing to platforms that help geoscientists discover **open educational resources (OER)**, as well as to individual training materials. The emphasis is on data-science workflows using geoscience data.
 
 The goal of this repository is to promote access to learning opportunities, reduce redundancy in training material development, and support reproducible, open science in the geosciences.
 
