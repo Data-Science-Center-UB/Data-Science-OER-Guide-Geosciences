@@ -55,9 +55,9 @@ These are single, openly available items (e.g., a university open workbook) that
 
 ---
 
-## Related Lists on GitHub
+## Related lists on GitHub
 
-These repositories also list and aggregate open-source tools and resources relevant to geoscience:
+These repositories also list and aggregate open-source tools and resources relevant to the geosciences:
 
 - [Python-Hydrology-Tools](https://github.com/raoulcollenteur/Python-Hydrology-Tools): Open source Python packages in hydrology
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience): Curated list of open-source tools, datasets, and tutorials for geophysics, geology, and geospatial data science.
